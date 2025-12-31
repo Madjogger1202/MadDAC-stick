@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DAC6574IDGSG4")(type "KiCad")(uri "${KIPRJMOD}/library/DAC6574IDGSG4.kicad_sym")(options "")(descr ""))
+)
